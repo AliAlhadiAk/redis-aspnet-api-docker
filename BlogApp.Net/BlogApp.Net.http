@@ -1,0 +1,6 @@
+@BlogApp.Net_HostAddress = http://localhost:5216
+
+GET {{BlogApp.Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
